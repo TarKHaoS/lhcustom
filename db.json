@@ -1,6 +1,5 @@
 {
-    "customProperties":
-    [
+    "customProperties": [
         {
             "providerName": "BCEE",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin finibus massa nibh, vulputate rhoncus risus convallis quis. Duis ac nisi sit amet leo imperdiet aliquam vel quis metus. Sed et nisl vel enim luctus bibendum ac et elit. Proin elementum odio non dolor gravida placerat.",
